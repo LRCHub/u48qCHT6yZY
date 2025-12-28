@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "観覧車",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-28T07:46:29.071592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "観覧車",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/01_観覧車_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "観覧車 - Kanransha",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/02_観覧車_-_Kanransha_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "観覧車",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_観覧車_My_Hair_is_Bad.txt"
+    }
+  ]
+}
